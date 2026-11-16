@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# IQ-TREE files that can be recreated
+results/*.log
+results/*.iqtree
+results/*.ckp.gz
+results/*.bionj
+results/*.mldist
